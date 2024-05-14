@@ -1,0 +1,44 @@
+header {
+    padding: 10px 20px;
+    margin: 20px 20px;
+}
+.imagem-cabeçalho{
+    width: 10%;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto-principal-escola{
+    text-align: center;
+    font-size: x-large;
+}
+
+.foto_fachada{
+    width: 20%;
+}
+
+.estudante01{
+    width: 300px;
+    height: 200px;
+    text-align: left;
+}
+
+.estudante02{
+    width: 200px;
+    height: 300px;
+    text-align: right;
+}
+
+.imagem-rodapé{
+    width: 5%;
+}
+
+.rodapé{
+    background-color: #424E61;
+    color: white;
+    text-align: center;
+}
